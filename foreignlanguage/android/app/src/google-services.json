@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "932590861487",
+    "firebase_url": "https://aiproject-c4d80-default-rtdb.firebaseio.com",
+    "project_id": "aiproject-c4d80",
+    "storage_bucket": "aiproject-c4d80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932590861487:android:ccba14c5b4b6f04fc8e85a",
+        "android_client_info": {
+          "package_name": "com.example.foreignlanguage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4RRDgsEdPtPQxA5R8Zbj_Rbnc3EbXPnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
